@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.description = 'Fancy theme to apply to out of the box Spree so it looks a bit nicer. Use it as a starting point.'
   s.required_ruby_version = '>= 1.8.7'
 
-  s.author    = 'Alexey Topolyanskiy'
-  s.email     = 'devilcoders@gmail.com'
-  s.homepage  = 'http://www.spreecommerce.com'
+  s.author    = 'Denis Joloudov'
+  s.email     = 'joloudov@gmail.com'
+  s.homepage  = 'http://www.spiritpad.ru'
 
   #s.files       = `git ls-files`.split("\n")
   #s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
